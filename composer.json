@@ -1,0 +1,6 @@
+{
+    "require": {
+        "hashids/hashids": "^4.0",
+        "nesbot/carbon": "^2.39"
+    }
+}
